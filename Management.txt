@@ -1,0 +1,45 @@
+Whar is a "Expense Tracker"?
+- Registrar gastos (monto , categoria , fecha , descripcion) ✅
+- Ver un resumem de tus gastos (por mes, por categoria, etc).
+- Almacenar los datos en un archivo o base de datos.
+- Mostrar reportes (por consola, con graficos, o incluso  en una interfaz visual).
+
+-What is the monto?
+ Es la cantidad de dinero que gastaste en algo
+ OJO: El monto es siempre un numero decimal o entero positivo, (nunca negativo). 
+
+ -What is categoria?
+ Es el tipo de gasto que hiciste, Te ayuda a agrupar y organizar los gastos
+ -comida
+ -transporte
+ -entretenimiento
+ -ropa
+ -educacion
+ -salud
+
+ What happend with the description?
+ Es el contexto que explica exactamente que compraste.
+
+ Example:
+    Here a example complet with all spent:
+    {
+        "amount": 85.00,
+        "category": "comida",
+        "description": "Hamburguesa con papas en McDonald",
+        "date": "2025-07-10"
+    }
+
+
+-Recommend Technologies:
+
+°Objetive               °Librery
+ -Tracker-date          -Datetime
+ -Save data             -csv / json
+ -Graphics              -matplotlib
+ -Interface             -tkinter
+ -testing               -unittest
+
+
+-Type APP: console
+
+-FUTURE: Create a interface for the apliccation.
