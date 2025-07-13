@@ -1,1 +1,6 @@
-amount category description date
+amount,category,description,date
+32,food,I want to hamburguesa,2025/07/13
+15,transport,I need to a transport,2025/07/13
+35.0,Food,I am hungry,2025-07-13
+45.0,Health,I did feel bad,2025-07-13
+13.34,Entertainment,I went to cinepolis,2025-07-13

@@ -1,7 +1,7 @@
 Whar is a "Expense Tracker"?
 - Registrar gastos (monto , categoria , fecha , descripcion) ✅
-- Ver un resumem de tus gastos (por mes, por categoria, etc).
-- Almacenar los datos en un archivo o base de datos.
+- Ver un resumem de tus gastos (por mes, por categoria, etc). 
+- Almacenar los datos en un archivo o base de datos. ✅ 
 - Mostrar reportes (por consola, con graficos, o incluso  en una interfaz visual).
 
 -What is the monto?
